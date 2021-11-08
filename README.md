@@ -15,7 +15,7 @@ Around 300–500 tigers are estimated in Bangladesh, 220–274 tigers in Nepal a
 
 
 ### Rarible Listing URL
-`coming soon`
+`https://rarible.com/token/0xf6793da657495ffeff9ee6350824910abc21356c:37140116356076024419509839409476817178992930865100441684709856335696318431234?tab=details`
 
 
 ### Github URL:
